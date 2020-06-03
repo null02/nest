@@ -10,3 +10,4 @@ git commit -m "commit message" [file name]
 将暂存区的内容提交到本地库
 ffffffffffffffffffff
 zhangchunyong
+asdashodaskashdias
